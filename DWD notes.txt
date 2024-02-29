@@ -1,0 +1,8 @@
+What is data science?
+Ans:- It is science and methodology,algorithm behind data processing
+What is data?
+Ans:- Data is a raw factor and figure
+Data analysis?
+Ans:- python programming
+Data Science?
+Ans:- ML algorithm,AI algorithm,solve problem
